@@ -1,0 +1,9 @@
+truffle test [<test_file>] [--compile-all] [--network <name>] [--verbose-rpc] [--show-events] 
+
+0x075D1f4eED94f0b041a7ab967136b9A66cB2F97
+
+ganache-cli --fork https://mainnet.infura.io/v3/3811bd537b294d8596d76d426a076dbc --mnemonic "tide aim canvas snake inherit expect source thunder defense income cinnamon crumble" --unlock 0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359 --unlock 0x7791Fd3721dCB2799fa49241b344296279A9B006
+
+
+ganache-cli --fork https://mainnet.infura.io/v3/3811bd537b294d8596d76d426a076dbc --mnemonic "tide aim canvas snake inherit expect source thunder defense income cinnamon crumble" --unlock 0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359 --unlock 0x7791Fd3721dCB2799fa49241b344296279A9B006
+
